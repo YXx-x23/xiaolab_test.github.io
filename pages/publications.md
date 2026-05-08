@@ -10,12 +10,14 @@ permalink: /publications
 Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYAAAAJ&hl=en) for more details.<br>
 \# Co-first authors; \* Co-corresponding authors
 
-### 2025
-- **Sun D#**, Zhang L#, **Han T**, **Wu Q**, Zhang P\*, **Wang C\***. Accurate, scalable and cross-platform cell identification for high-resolution spatial transcriptomics. _**Nat. Genet.**_ 2025; In press<br>
+### 2026
+- **Sun D#**, Zhang L#, **Han T**, **Wu Q**, Zhang P\*, **Wang C\***. Accurate, scalable and cross-platform cell identification for high-resolution spatial transcriptomics. _**Nat. Genet.**_ 2026; In press<br>
 [[Abstract]]()
 [[Full Paper]]()
 [[Software]](https://github.com/wanglabtongji/Cellist)
-- **Han Y**, Zhang L, **Sun D**, Cao G, **Wang Y**, **Yue J**, **Hu J**, **Dong Z**, Li F, Li T, Zhang P, **Wu Q\***, **Wang C\***. Spatiotemporal analyses of the pan-cancer single-cell landscape reveal widespread profibrotic ecotypes associated with tumor immunity. _**Nat. Cancer**_ 2025; 1-19.<br>
+
+### 2025
+- **Han Y**, Zhang L, **Sun D**, Cao G, **Wang Y**, **Yue J**, **Hu J**, **Dong Z**, Li F, Li T, Zhang P, **Wu Q\***, **Wang C\***. Spatiotemporal analyses of the pan-cancer single-cell landscape reveal widespread profibrotic ecotypes associated with tumor immunity. _**Nat. Cancer**_ 2025; 6 (11), 1880-1898.<br>
 [[Abstract]](https://www.nature.com/articles/s43018-025-01039-5)
 [[Full Paper]](/resources/publications/2025_NatCancer_TabulaTIME.pdf)
 [[Website]](http://wanglab-compbio.cn/TabulaTIME/)
