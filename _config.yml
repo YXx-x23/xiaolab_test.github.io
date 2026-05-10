@@ -4,21 +4,20 @@
 title: Wang Lab
 
 # Short description of your site
-description: Chenfei Wang Lab at Tongji University
+description: Yu Xiao Lab at Fudan University
 
 # Your name to show in the footer
-author: Chenfei Wang Lab
+author: Yu Xiao Lab
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   Home: "/"
-  News & Events: "news"
+  Research: "news"
   People: "people"
-  Publications: "publications"
-  Software: "software"
+  Publication: "publications"
   Positions: "positions"
-  Memories: "photo"
+  Gallery: "photo"
 
 # --- Logo --- #
 
