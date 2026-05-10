@@ -16,7 +16,6 @@ navbar-links:
   Research: "news"
   People: "people"
   Publication: "publications"
-  Positions: "positions"
   Gallery: "photo"
 
 # --- Logo --- #
@@ -39,9 +38,9 @@ navbar-links:
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: 08chenfeiwang@tongji.edu.cn
-  github: wanglabtongji
-  twitter: ChenfeiWangTJ
+  email: xiaoy@fudan.edu.cn
+  github: false
+  twitter: false
   rss: false
 #  reddit: yourname
 #  linkedin: daattali
@@ -89,16 +88,23 @@ excerpt_length: 50
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#314f96"
-navbar-text-col: "#fafafa"
-navbar-border-col: "#294481"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+# Navbar
+navbar-col: "#E6E6FA"        # Lavender: 极淡的紫色，带有呼吸感
+navbar-text-col: "#4B0082"   # Indigo: 深紫色文字，确保在浅色背景上的易读性
+navbar-border-col: "#DCDCF5" # 稍微加深的紫色边框，增加细节
+
+# Page - 纯净白
+page-col: "#FFFFFF"          
+text-col: "#3C3C3C"          # 暖深灰色，比纯黑更高级
+
+# Interactive - 保持紫色系的统一感
+link-col: "#9370DB"          # Medium Purple: 柔和的中紫色
+hover-col: "#B0C4DE"         # Light Steel Blue: 悬停时转为浅蓝紫，增加灵动感
+
+# Footer - 极淡的灰紫色
+footer-col: "#F3F3FB"        # 非常接近白色的紫灰色
+footer-text-col: "#8E8E93"   # 典型的系统级灰色
+footer-link-col: "#4B0082"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
